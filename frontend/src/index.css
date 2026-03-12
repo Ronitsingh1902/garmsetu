@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-stone-50 text-stone-900;
+    /* Optimizing for legibility */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body {
+    height: 100%;
+    overflow-x: hidden;
+    overscroll-behavior-y: none;
+    /* Prevents rubber-banding which can feel laggy */
+}
+
+@layer utilities {
+    .glass-card {
+        @apply bg-white/80  border border-white/40 shadow-md;
+        /* Hardware acceleration to prevent jank */
+        transform: translateZ(0);
+        will-change: transform;
+    }
+
+    .btn-press {
+        @apply active:scale-95 transition-transform duration-200;
+        /* Hardware acceleration */
+        transform: translateZ(0);
+    }
+
+    /* Force GPU rendering for smooth animations */
+    .gpu-accelerated {
+        transform: translateZ(0);
+        backface-visibility: hidden;
+        perspective: 1000px;
+    }
+
+    @keyframes spin-slow {
+        from {
+            transform: rotate(0deg);
+        }
+
+        to {
+            transform: rotate(360deg);
+        }
+    }
+
+    .animate-spin-slow {
+        animation: spin-slow 8s linear infinite;
+    }
+
+    @keyframes pulse-slow {
+
+        0%,
+        100% {
+            opacity: 0.3;
+            transform: scale(1);
+        }
+
+        50% {
+            opacity: 0.5;
+            transform: scale(1.1);
+        }
+    }
+
+    .animate-pulse-slow {
+        animation: pulse-slow 3s ease-in-out infinite;
+    }
+
+    @keyframes slide-up-modal {
+        from {
+            transform: translateY(100%);
+            opacity: 0;
+        }
+
+        to {
+            transform: translateY(0);
+            opacity: 1;
+        }
+    }
+
+    .animate-slide-up-modal {
+        animation: slide-up-modal 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+
+    /* Waveform bars */
+    @keyframes wave {
+
+        0%,
+        100% {
+            height: 0.5rem;
+        }
+
+        50% {
+            height: 1.5rem;
+        }
+    }
+
+    .animate-wave-1 {
+        animation: wave 1s ease-in-out infinite;
+        animation-delay: 0.0s;
+    }
+
+    .animate-wave-2 {
+        animation: wave 1s ease-in-out infinite;
+        animation-delay: 0.1s;
+    }
+
+    .animate-wave-3 {
+        animation: wave 1s ease-in-out infinite;
+        animation-delay: 0.2s;
+    }
+
+    .animate-wave-4 {
+        animation: wave 1s ease-in-out infinite;
+        animation-delay: 0.3s;
+    }
+
+    /* Video-like Background Animation (Ken Burns Effect) */
+    @keyframes bg-pan {
+        0% {
+            transform: scale(1) translate(0, 0);
+        }
+
+        50% {
+            transform: scale(1.1) translate(-2%, 2%);
+        }
+
+        100% {
+            transform: scale(1.05) translate(2%, -2%);
+        }
+    }
+
+    .animate-bg-pan {
+        animation: bg-pan 40s ease-in-out infinite alternate;
+        transform-origin: center center;
+    }
+}

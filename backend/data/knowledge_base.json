@@ -1,0 +1,97 @@
+[
+    {
+        "keywords": [
+            "season",
+            "crop",
+            "calendar",
+            "time",
+            "kharif",
+            "rabi",
+            "mausam",
+            "kheti ka samay",
+            "मौसम",
+            "ऋतु",
+            "खरीफ",
+            "रबी"
+        ], 
+        "title": "Farming Calendar & Seasons",
+        "title_hi": "खेती का सही समय (मौसम)",
+        "detailed_hi": "भारत में खेती तीन मुख्य मौसमों में होती है: \n1. खरीफ (जून-जुलाई): इसमें धान, मक्का, ज्वार, बाजरा, मूंग, मूंगफली आदि बोए जाते हैं। \n2. रबी (अक्टूबर-नवंबर): इसमें गेहूं, जौ, चना, मटर, सरसों और आलू की खेती होती है। \n3. जायद (मार्च-अप्रैल): इसमें तरबूज, खीरा, ककड़ी और सब्जियां उगाई जाती हैं।",
+        "detailed_en": "Farming in India happens in 3 seasons: \n1. Kharif (June-July): Rice, Maize, Bajra. \n2. Rabi (Oct-Nov): Wheat, Barley, Mustard. \n3. Zaid (March-April): Watermelon, Cucumber."
+    },
+    {
+        "keywords": [
+            "soil",
+            "test",
+            "health",
+            "card",
+            "mitti",
+            "check",
+            "jaanch",
+            "मिट्टी",
+            "जांच",
+            "मृदा स्वास्थ्य",
+            "हेल्थ कार्ड"
+        ],
+        "title": "Soil Health Card Scheme",
+        "title_hi": "मृदा स्वास्थ्य कार्ड योजना",
+        "detailed_hi": "मृदा स्वास्थ्य कार्ड (Soil Health Card) से आपको पता चलता है कि आपके खेत की मिट्टी में किन पोषक तत्वों की कमी है। इसे बनवाने के लिए अपने नजदीकी कृषि विभाग या कृषि विज्ञान केंद्र (KVK) से संपर्क करें। इससे आपको खाद की सही मात्रा डालने में मदद मिलेगी और पैदावार बढ़ेगी।",
+        "detailed_en": "Soil Health Card tells you the nutrient status of your soil. Visit your nearest Krishi Vigyan Kendra (KVK) to get one. It helps in using the right amount of fertilizers."
+    },
+    { 
+        "keywords": [
+            "fertilizer",
+            "urea",
+            "dap",
+            "organic",
+            "khad",
+            "urvarak",
+            "खाद",
+            "उर्वरक",
+            "यूरिया",
+            "जैविक"
+        ],
+        "title": "Fertilizer Management",
+        "title_hi": "खाद और उर्वरक का सही प्रयोग",
+        "detailed_hi": "फसल में खाद का संतुलित प्रयोग करें। यूरिया का उपयोग जरूरत से ज्यादा न करें। जैविक खाद (केंचुआ खाद या गोबर की खाद) का प्रयोग मिट्टी की उपजाऊ शक्ति बढ़ाता है। DAP का प्रयोग बुवाई के समय ही करें।",
+        "detailed_en": "Use fertilizers in balance. Don't overuse Urea. Organic manure (Vermicompost) improves soil health. Use DAP only during sowing."
+    },
+    {
+        "keywords": [
+            "pest",
+            "insect",
+            "disease",
+            "kida",
+            "rog",
+            "kitnashak",
+            "control",
+            "कीट",
+            "रोग",
+            "कीड़ा",
+            "बीमारी"
+        ],
+        "title": "Pest & Disease Control",
+        "title_hi": "कीटों और रोगों का नियंत्रण",
+        "detailed_hi": "कीटों से बचने के लिए नीम के तेल (Neem Oil) का छिड़काव करें। यदि फसल में इल्ली या रोग लगा है, तो कृषि विशेषज्ञ की सलाह से ही कीटनाशक का प्रयोग करें। फसल चक्र (Crop Rotation) अपनाने से बीमारियां कम होती हैं।",
+        "detailed_en": "Spray Neem Oil for pest control. Consult an expert before using chemical pesticides. Crop rotation helps reduce diseases."
+    },
+    {
+        "keywords": [
+            "loan",
+            "kcc",
+            "credit",
+            "bank",
+            "kisan credit card",
+            "paisa",
+            "udhaar",
+            "लोन",
+            "कर्ज",
+            "क्रेडिट कार्ड",
+            "बैंक"
+        ],
+        "title": "Kisan Credit Card (KCC)",
+        "title_hi": "किसान क्रेडिट कार्ड (KCC)",
+        "detailed_hi": "KCC योजना के तहत किसानों को सस्ते ब्याज दर (4% तक) पर लोन मिलता है। इससे आप खाद, बीज और खेती का सामान खरीद सकते हैं। इसे बनवाने के लिए अपने नजदीकी बैंक में जाएं और ज़मीन के कागजात दिखाएं।",
+        "detailed_en": "KCC provides loans at low interest rates (up to 4%). Use it to buy seeds and fertilizers. Visit your nearest bank with land documents to apply."
+    }
+]

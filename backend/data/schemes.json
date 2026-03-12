@@ -1,0 +1,382 @@
+[
+    {
+        "id": "pm-kisan",
+        "title": "PM Kisan Samman Nidhi",
+        "title_hi": "प्रधानमंत्री किसान सम्मान निधि योजना",
+        "description": "Get ₹6000 per year directly in your bank account.",
+        "description_hi": "हर साल ₹6000 सीधे आपके बैंक खाते में पाएं।",
+        "details": {
+            "what_is_it": "Under this scheme, the government gives ₹6000 every year to help farmers with farming expenses. The money comes in 3 installments of ₹2000 each.",
+            "what_is_it_hi": "किसान भाइयों, इस योजना में सरकार आपको खेती के खर्चों में मदद करने के लिए हर साल ₹6000 देती है। यह पैसा ₹2000 की 3 किस्तों में आपके खाते में आता है।",
+            "eligibility": "• Small and marginal farmers having cultivable land.\n• Must have a valid bank account linked with Aadhaar.",
+            "eligibility_hi": "• छोटे और सीमांत किसान जिनके पास खेती योग्य जमीन हो।\n• आधार कार्ड से जुड़ा हुआ बैंक खाता होना चाहिए।",
+            "how_to_apply": "1. Go to pmkisan.gov.in or visit your nearest CSC Center.\n2. Click on 'New Farmer Registration'.\n3. Enter Aadhaar number and fill the form.",
+            "how_to_apply_hi": "1. pmkisan.gov.in वेबसाइट पर जाएं या अपने नजदीकी CSC केंद्र (जन सेवा केंद्र) पर जाएं।\n2. 'नया किसान पंजीकरण' पर क्लिक करें।\n3. अपना आधार नंबर डालें और फॉर्म भरें।",
+            "documents": "• Aadhaar Card\n• Land Papers (Khatauni)\n• Bank Passbook\n• Mobile Number",
+            "documents_hi": "• आधार कार्ड\n• जमीन के कागज (खतौनी)\n• बैंक पासबुक\n• मोबाइल नंबर",
+            "contact": "PM-Kisan Helpline: 155261 / 011-24300606",
+            "contact_hi": "पीएम-किसान हेल्पलाइन: 155261 / 011-24300606"
+        }
+    },
+    {
+        "id": "kcc",
+        "title": "Kisan Credit Card (KCC)",
+        "title_hi": "किसान क्रेडिट कार्ड (KCC)",
+        "description": "Get easy loans for farming at very low interest rates.",
+        "description_hi": "खेती के लिए बहुत कम ब्याज पर आसान लोन पाएं।",
+        "details": {
+            "what_is_it": "KCC helps you get money for seeds, fertilizers, and farming needs from the bank easily. Interest rate is very low (around 4% if paid on time).",
+            "what_is_it_hi": "किसान भाई, KCC आपको बीज, खाद और खेती की जरूरतों के लिए बैंक से आसानी से पैसा दिलाने में मदद करता है। ब्याज दर बहुत कम (समय पर चुकाने पर लगभग 4%) लगती है।",
+            "eligibility": "• Any farmer who owns land.\n• Tenant farmers and sharecroppers can also apply.",
+            "eligibility_hi": "• कोई भी किसान जिसके पास अपनी जमीन है।\n• बटाईदार और पट्टे पर खेती करने वाले किसान भी आवेदन कर सकते हैं।",
+            "how_to_apply": "Visit your nearest Bank branch with land documents and fill the KCC form.",
+            "how_to_apply_hi": "अपने नजदीकी बैंक शाखा में जमीन के कागज लेकर जाएं और KCC फॉर्म भरें।",
+            "documents": "• Aadhaar/PAN Card\n• Land Documents\n• Photo",
+            "documents_hi": "• आधार/पैन कार्ड\n• जमीन के दस्तावेज\n• फोटो",
+            "contact": "Contact your nearest Bank Branch Manager.",
+            "contact_hi": "अपने नजदीकी बैंक शाखा प्रबंधक से संपर्क करें।"
+        }
+    },
+    {
+        "id": "pmfby",
+        "title": "Pradhan Mantri Fasal Bima Yojana",
+        "title_hi": "प्रधानमंत्री फसल बीमा योजना",
+        "description": "Insurance for your crops against rain, storm, or drought.",
+        "description_hi": "बारिश, आंधी या सूखे से अपनी फसल का बीमा कराएं।",
+        "details": {
+            "what_is_it": "If your crop gets destroyed due to heavy rain, drought, or pests, the insurance company will give you money to recover the loss.",
+            "what_is_it_hi": "अगर भारी बारिश, सूखा या कीड़ों के कारण आपकी फसल खराब हो जाती है, तो बीमा कंपनी आपको नुकसान की भरपाई के लिए पैसा देगी।",
+            "eligibility": "• All farmers growing notified crops (Food crops, Oilseeds, etc.).",
+            "eligibility_hi": "• सभी किसान जो अधिसूचित फसलें (अनाज, तिलहन, आदि) उगाते हैं।",
+            "how_to_apply": "Apply at your Bank within the cutoff date or at CSC center.",
+            "how_to_apply_hi": "तय तारीख के भीतर अपने बैंक या जन सेवा केंद्र (CSC) पर आवेदन करें।",
+            "documents": "• Land Possession Certificate\n• Aadhaar\n• Bank details",
+            "documents_hi": "• जमीन का प्रमाण पत्र (LPC)\n• आधार कार्ड\n• बैंक का विवरण",
+            "contact": "Toll Free: 1800-209-5959",
+            "contact_hi": "टोल फ्री: 1800-209-5959"
+        }
+    },
+    {
+        "id": "soil-health",
+        "title": "Soil Health Card Scheme",
+        "title_hi": "मृदा स्वास्थ्य कार्ड योजना",
+        "description": "Know your soil quality and get free testing.",
+        "description_hi": "अपनी मिट्टी की गुणवत्ता जानें और मुफ्त जांच कराएं।",
+        "details": {
+            "what_is_it": "The government tests your farm soil and gives a card telling you which fertilizer is needed and how much. This saves money on unnecessary fertilizers.",
+            "what_is_it_hi": "सरकार आपके खेत की मिट्टी की जांच करती है और एक कार्ड देती है जिसमें बताया जाता है कि कौन सी खाद कितनी डालनी है। इससे फालतू खाद पर होने वाला खर्चा बचता है।",
+            "eligibility": "• All farmers are eligible.",
+            "eligibility_hi": "• सभी किसान पात्र हैं।",
+            "how_to_apply": "Contact your District Agriculture Officer or Gram Sevak.",
+            "how_to_apply_hi": "अपने जिला कृषि अधिकारी या ग्राम सेवक से संपर्क करें।",
+            "documents": "• Aadhaar Card\n• Farm details",
+            "documents_hi": "• आधार कार्ड\n• खेत का विवरण",
+            "contact": "Kisan Call Center: 1800-180-1551",
+            "contact_hi": "किसान कॉल सेंटर: 1800-180-1551"
+        }
+    },
+    {
+        "id": "pm-ksy",
+        "title": "PM Krishi Sinchai Yojana",
+        "title_hi": "प्रधानमंत्री कृषि सिंचाई योजना",
+        "description": "Subsidies on Drip and Sprinkler irrigation systems.",
+        "description_hi": "ड्रिप और स्प्रिंकलर सिंचाई पर भारी छूट पाएं।",
+        "details": {
+            "what_is_it": "Get up to 45%-55% subsidy on buying Drip Irrigation or Sprinkler systems. 'Per Drop More Crop' is the motto.",
+            "what_is_it_hi": "ड्रिप सिंचाई या स्प्रिंकलर सिस्टम खरीदने पर 45% से 55% तक की सब्सिडी पाएं। 'प्रति बूंद अधिक फसल' ही इसका लक्ष्य है।",
+            "eligibility": "• Farmers with cultivable land and water source.",
+            "eligibility_hi": "• वे किसान जिनके पास खेती योग्य जमीन और पानी का स्रोत है।",
+            "how_to_apply": "Apply online at state agriculture portal or meet Agriculture Officer.",
+            "how_to_apply_hi": "राज्य कृषि पोर्टल पर ऑनलाइन आवेदन करें या कृषि अधिकारी से मिलें।",
+            "documents": "• Land Records\n• Aadhaar\n• Bank Passbook",
+            "documents_hi": "• जमाबंदी\n• आधार कार्ड\n• बैंक पासबुक",
+            "contact": "District Agriculture Office",
+            "contact_hi": "जिला कृषि कार्यालय"
+        }
+    },
+    {
+        "id": "e-nam",
+        "title": "e-NAM (National Agriculture Market)",
+        "title_hi": "ई-नाम (राष्ट्रीय कृषि बाजार)",
+        "description": "Sell your crops online to get the best price.",
+        "description_hi": "अपनी फसल ऑनलाइन बेचें और सबसे अच्छा दाम पाएं।",
+        "details": {
+            "what_is_it": "e-NAM is an online marketplace where you can sell your produce to buyers across India, not just your local mandi agents.",
+            "what_is_it_hi": "ई-नाम एक ऑनलाइन बाज़ार है जहाँ आप अपनी उपज भारत भर के खरीदारों को बेच सकते हैं, न कि केवल अपने स्थानीय मंडी एजेंटों को।",
+            "eligibility": "• Any farmer wishing to sell produce in APMC mandis.",
+            "eligibility_hi": "• कोई भी किसान जो मंडी में फसल बेचना चाहता है।",
+            "how_to_apply": "Register at enam.gov.in or visit the nearest Mandi registration desk.",
+            "how_to_apply_hi": "enam.gov.in पर पंजीकरण करें या नजदीकी मंडी पंजीकरण डेस्क पर जाएं।",
+            "documents": "• Bank Account details\n• Aadhaar",
+            "documents_hi": "• बैंक खाता विवरण\n• आधार कार्ड",
+            "contact": "e-NAM Helpdesk: 1800-270-0224",
+            "contact_hi": "ई-नाम हेल्पडेस्क: 1800-270-0224"
+        }
+    },
+    {
+        "id": "kusum",
+        "title": "PM KUSUM Yojana",
+        "title_hi": "प्रधानमंत्री कुसुम योजना",
+        "description": "Get Solar Pumps at 90% subsidy.",
+        "description_hi": "सोलर पंप (सौर ऊर्जा) पर 90% सब्सिडी पाएं।",
+        "details": {
+            "what_is_it": "Install solar pumps for irrigation. You can also sell extra electricity to the government and earn money.",
+            "what_is_it_hi": "सिंचाई के लिए सोलर पंप लगवाएं। आप अतिरिक्त बिजली सरकार को बेचकर पैसे भी कमा सकते हैं।",
+            "eligibility": "• Farmers, Panchayat, or Cooperatives.",
+            "eligibility_hi": "• किसान, पंचायत या सहकारी समितियां।",
+            "how_to_apply": "Online application through official PM KUSUM portal.",
+            "how_to_apply_hi": "आधिकारिक पीएम कुसुम पोर्टल के माध्यम से ऑनलाइन आवेदन।",
+            "documents": "• Land Documents\n• Aadhaar\n• Bank Details",
+            "documents_hi": "• जमीन के कागज\n• आधार कार्ड\n• बैंक विवरण",
+            "contact": "MNRE Helpline: 011-2436-0707",
+            "contact_hi": "MNRE हेल्पलाइन: 011-2436-0707"
+        }
+    },
+    {
+        "id": "midh",
+        "title": "Mission for Integrated Development of Horticulture (MIDH)",
+        "title_hi": "बागवानी मिशन (MIDH)",
+        "description": "Subsidy for fruit gardens, greenhouses, and cold storage.",
+        "description_hi": "फलों के बाग, ग्रीनहाउस और कोल्ड स्टोरेज के लिए सब्सिडी।",
+        "details": {
+            "what_is_it": "If you want to grow fruits, flowers, or spices, or build a greenhouse, government provides financial help under this mission.",
+            "what_is_it_hi": "अगर आप फल, फूल या मसाले उगाना चाहते हैं, या ग्रीनहाउस बनाना चाहते हैं, तो सरकार इस मिशन के तहत आर्थिक मदद देती है।",
+            "eligibility": "• Farmers growing horticulture crops.",
+            "eligibility_hi": "• बागवानी फसलें उगाने वाले किसान।",
+            "how_to_apply": "Contact District Horticulture Officer.",
+            "how_to_apply_hi": "जिला उद्यान अधिकारी से संपर्क करें।",
+            "documents": "• Land Papers\n• Project Report (for big projects)",
+            "documents_hi": "• जमीन के कागज\n• प्रोजेक्ट रिपोर्ट (बड़ी परियोजनाओं के लिए)",
+            "contact": "National Horticulture Board: 0124-2431221",
+            "contact_hi": "राष्ट्रीय बागवानी बोर्ड: 0124-2431221"
+        }
+    },
+    {
+        "id": "pkvy",
+        "title": "Paramparagat Krishi Vikas Yojana (PKVY)",
+        "title_hi": "परम्परागत कृषि विकास योजना (जैविक खेती)",
+        "description": "Promotion and financial help for Organic Farming.",
+        "description_hi": "जैविक खेती को बढ़ावा और आर्थिक मदद।",
+        "details": {
+            "what_is_it": "Farmers are encouraged to do Organic Farming in groups. Government gives ₹50,000 per hectare for organic inputs and marketing.",
+            "what_is_it_hi": "किसानों को समूह बनाकर जैविक खेती करने के लिए प्रोत्साहित किया जाता है। सरकार जैविक खाद और मार्केटिंग के लिए प्रति हेक्टेयर ₹50,000 देती है।",
+            "eligibility": "• Group of farmers (Cluster).",
+            "eligibility_hi": "• किसानों का समूह (क्लस्टर)।",
+            "how_to_apply": "Contact Regional Council or Agriculture Dept.",
+            "how_to_apply_hi": "क्षेत्रीय परिषद या कृषि विभाग से संपर्क करें।",
+            "documents": "• Cluster Registration details",
+            "documents_hi": "• समूह पंजीकरण विवरण",
+            "contact": "NCOF Ghaziabad: 0120-2764906",
+            "contact_hi": "NCOF गाजियाबाद: 0120-2764906"
+        }
+    },
+    {
+        "id": "rkvy",
+        "title": "Rashtriya Krishi Vikas Yojana (RKVY)",
+        "title_hi": "राष्ट्रीय कृषि विकास योजना",
+        "description": "Overall development of farming and allied sectors.",
+        "description_hi": "खेती और उससे जुड़े क्षेत्रों के समग्र विकास के लिए।",
+        "details": {
+            "what_is_it": "States choose their own agriculture development plans. Projects for dairy, fisheries, and farming infrastructure get funding.",
+            "what_is_it_hi": "राज्य अपनी कृषि विकास योजनाएं खुद चुनते हैं। डेयरी, मत्स्य पालन और कृषि ढांचे के लिए परियोजनाओं को धन मिलता है।",
+            "eligibility": "• Depends on specific state project.",
+            "eligibility_hi": "• विशिष्ट राज्य परियोजना पर निर्भर करता है।",
+            "how_to_apply": "Check state agriculture department website.",
+            "how_to_apply_hi": "राज्य कृषि विभाग की वेबसाइट देखें।",
+            "documents": "• As per project requirement",
+            "documents_hi": "• परियोजना की आवश्यकता अनुसार",
+            "contact": "State Agriculture Department",
+            "contact_hi": "राज्य कृषि विभाग"
+        }
+    },
+    {
+        "id": "agri-clinic",
+        "title": "Agri-Clinics and Agri-Business Centers",
+        "title_hi": "एग्री-क्लीनिक और एग्री-बिजनेस सेंटर",
+        "description": "Loan and subsidy to start farming business.",
+        "description_hi": "खेती से जुड़ा बिजनेस शुरू करने के लिए लोन और सब्सिडी।",
+        "details": {
+            "what_is_it": "For agriculture graduates or experienced farmers to open shops, clinics, or consultancy services.",
+            "what_is_it_hi": "कृषि स्नातकों या अनुभवी किसानों के लिए दुकान, क्लीनिक या सलाह सेवा खोलने के लिए।",
+            "eligibility": "• Agri Graduates / Diploma holders.",
+            "eligibility_hi": "• कृषि स्नातक / डिप्लोमा धारक।",
+            "how_to_apply": "Apply online at agriclinics.net",
+            "how_to_apply_hi": "agriclinics.net पर ऑनलाइन आवेदन करें।",
+            "documents": "• Educational Certificates\n• Project Report",
+            "documents_hi": "• शैक्षिक प्रमाण पत्र\n• प्रोजेक्ट रिपोर्ट",
+            "contact": "Toll Free: 1800-425-1556",
+            "contact_hi": "टोल फ्री: 1800-425-1556"
+        }
+    },
+    {
+        "id": "livestock-insurance",
+        "title": "Livestock Insurance Scheme",
+        "title_hi": "पशुधन बीमा योजना",
+        "description": "Insurance for cows, buffaloes, and other cattle.",
+        "description_hi": "गाय, भैंस और अन्य पशुओं का बीमा।",
+        "details": {
+            "what_is_it": "Protect your loss if your cattle dies due to disease or accident. Government pays part of the premium.",
+            "what_is_it_hi": "अगर बीमारी या दुर्घटना से आपके पशु की मृत्यु हो जाती है तो नुकसान से बचें। सरकार प्रीमियम का एक हिस्सा देती है।",
+            "eligibility": "• Farmers owning cattle.",
+            "eligibility_hi": "• पशु रखने वाले किसान।",
+            "how_to_apply": "Contact Veterinary Hospital.",
+            "how_to_apply_hi": "पशु चिकित्सालय (Veterinary Hospital) से संपर्क करें।",
+            "documents": "• Animal Health Certificate\n• Owner ID",
+            "documents_hi": "• पशु स्वास्थ्य प्रमाण पत्र\n• मालिक का पहचान पत्र",
+            "contact": "Nearest Veterinary Doctor",
+            "contact_hi": "नजदीकी पशु चिकित्सक"
+        }
+    },
+    {
+        "id": "fisheries",
+        "title": "Pradhan Mantri Matsya Sampada Yojana",
+        "title_hi": "प्रधानमंत्री मत्स्य संपदा योजना (मछली पालन)",
+        "description": "Boost for Fishery sector with new boats and ponds.",
+        "description_hi": "नई नावों और तालाबों के लिए मछली पालन क्षेत्र को बढ़ावा।",
+        "details": {
+            "what_is_it": "Scheme to modernize fisheries. 40-60% subsidy for new ponds, biofloc units, and boats.",
+            "what_is_it_hi": "मछली पालन को आधुनिक बनाने की योजना। नए तालाब, बायोफ्लॉक यूनिट और नावों के लिए 40-60% सब्सिडी।",
+            "eligibility": "• Fishermen and Fish Farmers.",
+            "eligibility_hi": "• मछुआरे और मछली पालक।",
+            "how_to_apply": "District Fisheries Office.",
+            "how_to_apply_hi": "जिला मत्स्य कार्यालय।",
+            "documents": "• Project Details\n• Land/Pond Papers",
+            "documents_hi": "• प्रोजेक्ट विवरण\n• जमीन/तालाब के कागज",
+            "contact": "NFDB Hyderabad: 040-24000201",
+            "contact_hi": "NFDB हैदराबाद: 040-24000201"
+        }
+    },
+    {
+        "id": "gobardhan",
+        "title": "GOBAR-Dhan Yojana",
+        "title_hi": "गोबर-धन योजना",
+        "description": "Turn cattle waste into Biogas and organic manure.",
+        "description_hi": "पशुओं के गोबर से बायोगैस और जैविक खाद बनाएं।",
+        "details": {
+            "what_is_it": "Galvanizing Organic Bio-Agro Resources Dhan. Supports villages to manage cattle waste and create clean fuel (Biogas).",
+            "what_is_it_hi": "जैविक बायो-एग्रो रिसोर्सेस धन। गांवों को पशु अपशिष्ट का प्रबंधन करने और स्वच्छ ईंधन (बायोगैस) बनाने में मदद करता है।",
+            "eligibility": "• Gram Panchayats / Clusters.",
+            "eligibility_hi": "• ग्राम पंचायतें / समूह।",
+            "how_to_apply": "Through Gram Panchayat.",
+            "how_to_apply_hi": "ग्राम पंचायत के माध्यम से।",
+            "documents": "• Gram Sabha Resolution",
+            "documents_hi": "• ग्राम सभा प्रस्ताव",
+            "contact": "District Panchayat Officer",
+            "contact_hi": "जिला पंचायत अधिकारी"
+        }
+    },
+    {
+        "id": "nrlm",
+        "title": "Deen Dayal Antyodaya Yojana - NRLM",
+        "title_hi": "राष्ट्रीय ग्रामीण आजीविका मिशन (NRLM)",
+        "description": "Self Help Groups (SHG) for women farmers.",
+        "description_hi": "महिला किसानों के लिए स्वयं सहायता समूह (SHG)।",
+        "details": {
+            "what_is_it": "Helps poor rural women form groups (SHGs), save money, and get easy bank loans for livelihood activities.",
+            "what_is_it_hi": "ग्रामीण गरीब महिलाओं को समूह (SHG) बनाने, पैसे बचाने और आजीविका के लिए आसान बैंक ऋण प्राप्त करने में मदद करता है।",
+            "eligibility": "• Rural poor women.",
+            "eligibility_hi": "• ग्रामीण गरीब महिलाएं।",
+            "how_to_apply": "Contact Gram Panchayat or Block Mission Manager.",
+            "how_to_apply_hi": "ग्राम पंचायत या ब्लॉक मिशन मैनेजर से संपर्क करें।",
+            "documents": "• BPL Card / Ration Card",
+            "documents_hi": "• बीपीएल कार्ड / राशन कार्ड",
+            "contact": "Block Development Office (BDO)",
+            "contact_hi": "खंड विकास कार्यालय (BDO)"
+        }
+    },
+    {
+        "id": "svamitva",
+        "title": "SVAMITVA Scheme",
+        "title_hi": "स्वामित्व योजना (प्रॉपर्टी कार्ड)",
+        "description": "Property cards for rural households.",
+        "description_hi": "ग्रामीण परिवारों के लिए संपत्ति कार्ड।",
+        "details": {
+            "what_is_it": "Survey of villages using drones. Villagers get a legal Property Card which can be used to take loans.",
+            "what_is_it_hi": "ड्रोन का उपयोग करके गांवों का सर्वेक्षण। ग्रामीणों को कानूनी संपत्ति कार्ड मिलता है जिसका उपयोग ऋण लेने के लिए किया जा सकता है।",
+            "eligibility": "• Rural house owners in selected villages.",
+            "eligibility_hi": "• चयनित गांवों में ग्रामीण मकान मालिक।",
+            "how_to_apply": "Automatic survey by govt. Contact Panchayat.",
+            "how_to_apply_hi": "सरकार द्वारा स्वचालित सर्वेक्षण। पंचायत से संपर्क करें।",
+            "documents": "• Existing land proof (if any)",
+            "documents_hi": "• मौजूदा जमीन का सबूत (यदि कोई हो)",
+            "contact": "Revenue Department / Patwari",
+            "contact_hi": "राजस्व विभाग / पटवारी"
+        }
+    },
+    {
+        "id": "nmoop",
+        "title": "National Mission on Oilseeds and Oil Palm",
+        "title_hi": "तिलहन और ऑयल पाम मिशन",
+        "description": "Special benefits for growing Mustard, Soybean, Palm.",
+        "description_hi": "सरसों, सोयाबीन, पाम उगाने के लिए विशेष लाभ।",
+        "details": {
+            "what_is_it": "Increase production of vegetable oils. Free seed minikits and training provided.",
+            "what_is_it_hi": "वनस्पति तेलों का उत्पादन बढ़ाना। मुफ्त बीज मिनीकिट और प्रशिक्षण प्रदान किया जाता है।",
+            "eligibility": "• Farmers in oilseed growing districts.",
+            "eligibility_hi": "• तिलहन उत्पादक जिलों के किसान।",
+            "how_to_apply": "Agriculture Dept Office.",
+            "how_to_apply_hi": "कृषि विभाग कार्यालय।",
+            "documents": "• Land Records",
+            "documents_hi": "• जमाबंदी",
+            "contact": "District Agriculture Officer",
+            "contact_hi": "जिला कृषि अधिकारी"
+        }
+    },
+    {
+        "id": "micro-food",
+        "title": "PM Formalisation of Micro Food Processing Enterprises",
+        "title_hi": "PMFME (खाद्य प्रसंस्करण योजना)",
+        "description": "Start your own pickle, jam, or papad business.",
+        "description_hi": "अपना खुद का अचार, जैम, या पापड़ का व्यवसाय शुरू करें।",
+        "details": {
+            "what_is_it": "Financial, technical, and business support to existing micro food processing enterprises. One District One Product approach.",
+            "what_is_it_hi": "मौजूदा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को वित्तीय और तकनीकी सहायता। एक जिला एक उत्पाद (ODOP) दृष्टिकोण।",
+            "eligibility": "• Individual micro enterprises or FPOs.",
+            "eligibility_hi": "• व्यक्तिगत सूक्ष्म उद्यम या FPO।",
+            "how_to_apply": "Online at pmfme.mofpi.gov.in",
+            "how_to_apply_hi": "pmfme.mofpi.gov.in पर ऑनलाइन।",
+            "documents": "• Registration of Enterprise\n• Aadhaar",
+            "documents_hi": "• उद्यम का पंजीकरण\n• आधार कार्ड",
+            "contact": "State Nodal Agency (FPI)",
+            "contact_hi": "राज्य नोडल एजेंसी (FPI)"
+        }
+    },
+    {
+        "id": "dairy-infra",
+        "title": "Dairy Entrepreneurship Development Scheme",
+        "title_hi": "डेयरी उद्यमिता विकास योजना",
+        "description": "Subsidy for purchasing cows and milking machines.",
+        "description_hi": "गाय और दूध निकालने की मशीन खरीदने के लिए सब्सिडी।",
+        "details": {
+            "what_is_it": "Back-ended capital subsidy for setting up small dairy farms (up to 10 animals).",
+            "what_is_it_hi": "छोटे डेयरी फार्म (10 पशुओं तक) स्थापित करने के लिए पूंजीगत सब्सिडी।",
+            "eligibility": "• Farmers, NGOs, SHGs.",
+            "eligibility_hi": "• किसान, एनजीओ, एसएचजी।",
+            "how_to_apply": "Through NABARD / Commercial Banks.",
+            "how_to_apply_hi": "नाबार्ड / वाणिज्यिक बैंकों के माध्यम से।",
+            "documents": "• Project Report\n• Land Proof",
+            "documents_hi": "• प्रोजेक्ट रिपोर्ट\n• जमीन का सबूत",
+            "contact": "NABARD Office",
+            "contact_hi": "नाबार्ड कार्यालय"
+        }
+    },
+    {
+        "id": "bamboo-mission",
+        "title": "National Bamboo Mission",
+        "title_hi": "राष्ट्रीय बांस मिशन",
+        "description": "Grow bamboo and earn big profits.",
+        "description_hi": "बांस उगाएं और बड़ा मुनाफा कमाएं।",
+        "details": {
+            "what_is_it": "Promotes holistic growth of bamboo sector. 50% subsidy for plantation and treatment units.",
+            "what_is_it_hi": "बांस क्षेत्र के विकास को बढ़ावा देता है। वृक्षारोपण और उपचार इकाइयों के लिए 50% सब्सिडी।",
+            "eligibility": "• Farmers having land.",
+            "eligibility_hi": "• जमीन वाले किसान।",
+            "how_to_apply": "State Bamboo Mission Office.",
+            "how_to_apply_hi": "राज्य बांस मिशन कार्यालय।",
+            "documents": "• Land Records",
+            "documents_hi": "• जमीन के कागज",
+            "contact": "Forest Department",
+            "contact_hi": "वन विभाग"
+        }
+    }
+]

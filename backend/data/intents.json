@@ -1,0 +1,99 @@
+{
+    "GREETING": {
+        "keywords": [
+            "hello",
+            "namaste",
+            "hi",
+            "kaise ho",
+            "pranam",
+            "ram ram",
+            "help",
+            "madad",
+            "नमस्ते",
+            "प्रणाम",
+            "राम राम",
+            "कैसे हो",
+            "मदद"
+        ]
+    },
+    "SCHEME_PM_KISAN": {
+        "keywords": [
+            "pm kisan",
+            "kisan",
+            "kisan samman",
+            "2000 rupees",
+            "paisa",
+            "money",
+            "rupaye",
+            "samman nidhi",
+            "sarkari",
+            "yojana",
+            "govt scheme",
+            "government scheme",
+            "पीएम किसान",
+            "किसान सम्मान निधि",
+            "२००० रुपये",
+            "पैसा",
+            "सरकारी योजना"
+        ]
+    },
+    "SCHEME_PM_FASAL": {
+        "keywords": [
+            "fasal",
+            "bima",
+            "insurance",
+            "mncfc",
+            "nuksan",
+            "crop loss",
+            "barbaad",
+            "फसल बीमा",
+            "बीमा",
+            "नुकसान",
+            "बर्बाद"
+        ]
+    },
+    "SCHEME_KCC": {
+        "keywords": [
+            "kcc",
+            "credit card",
+            "loan",
+            "karz",
+            "byaj",
+            "interest",
+            "किसान क्रेडिट कार्ड",
+            "लोन",
+            "कर्ज",
+            "ब्याज"
+        ]
+    },
+    "SCHEME_SOIL_HEALTH": {
+        "keywords": [
+            "soil",
+            "mitti",
+            "health card",
+            "jaanch",
+            "testing",
+            "urvarak",
+            "fertilizer",
+            "मिट्टी",
+            "मृदा स्वास्थ्य",
+            "जांच",
+            "खाद"
+        ]
+    },
+    "URBAN_TERRACE_FARMING": {
+        "keywords": [
+            "terrace",
+            "roof",
+            "urban",
+            "chhat",
+            "gamla",
+            "tamatar",
+            "tomato",
+            "छत पर खेती",
+            "गमला",
+            "अर्बन फार्मिंग",
+            "टमाटर"
+        ]
+    }
+}

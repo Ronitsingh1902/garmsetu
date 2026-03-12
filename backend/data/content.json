@@ -1,0 +1,163 @@
+{
+    "GREETING": {
+        "title": "Namaste Kisan Bhai!",
+        "title_hi": "नमस्ते किसान भाई!",
+        "description": "Main GramSetu hu. Main aapko sarkari yojnaon aur kheti ke baare mein bata sakta hu.",
+        "description_hi": "मैं ग्रामसेतु हूँ। मैं आपको सरकारी योजनाओं और खेती के बारे में बता सकता हूँ।",
+        "spoken_text": "Namaste! I am GramSetu, your farming companion. Think of me as your friend in farming. You can ask me about government schemes like PM Kisan, Crop Insurance, or how to check your soil health. Tell me, how can I help you today?",
+        "spoken_text_hi": "राम राम किसान भाई! मैं ग्रामसेतु हूँ, आपका खेती का साथी। आप मुझे अपना दोस्त समझें। आप मुझसे पीएम किसान, फसल बीमा, या मिट्टी की जांच के बारे में पूछ सकते हैं। बताइए, आज मैं आपकी क्या सेवा कर सकता हूँ?",
+        "source": "GramSetu Assistance",
+        "steps": [
+            {
+                "id": 1,
+                "text": "Ask: 'Tell me about PM Kisan'",
+                "text_hi": "पूछें: 'PM Kisan के बारे में बताओ'"
+            },
+            {
+                "id": 2,
+                "text": "Ask: 'How to get Crop Insurance?'",
+                "text_hi": "पूछें: 'फसल बीमा कैसे मिलेगा?'"
+            }
+        ]
+    },
+    "SCHEME_PM_KISAN": {
+        "title": "PM Kisan Samman Nidhi",
+        "title_hi": "पीएम किसान सम्मान निधि",
+        "description": "Ji, ismein aapko saal ke ₹6000 milte hain, 3 kishton mein.",
+        "description_hi": "जी, इसमें आपको साल के ₹6000 मिलते हैं, 3 किश्तों में।",
+        "spoken_text": "Certainly! PM Kisan Samman Nidhi is a great scheme for you. In this, the government directly sends 6000 rupees to your bank account every year. This comes in three installments of 2000 rupees each. To get this benefit, you just need your Aadhaar card and land papers. You can easily apply at your nearest CSC center or on the pmkisan.gov.in website. Make sure your Aadhaar is linked to your bank account!",
+        "spoken_text_hi": "जी जरूर, यह बहुत ही फायदेमंद योजना है। पीएम किसान सम्मान निधि में सरकार आपको हर साल 6000 रुपये देती है, जो सीधा आपके बैंक खाते में आते हैं। यह पैसा 2000 रुपये की 3 किश्तों में मिलता है। इसका लाभ लेने के लिए बस अपना आधार कार्ड और जमीन के कागज लेकर नजदीकी CSC सेंटर जाएं और आवेदन करें। ध्यान रहे, आपका आधार आपके बैंक खाते से जुड़ा होना चाहिए!",
+        "source": "https://pmkisan.gov.in",
+        "steps": [
+            {
+                "id": 1,
+                "text": "First, please confirm if your Aadhaar is linked to your bank account.",
+                "text_hi": "सबसे पहले, कृपया चेक करें कि आपका आधार बैंक खाते से जुड़ा है या नहीं।"
+            },
+            {
+                "id": 2,
+                "text": "You can register easily at pmkisan.gov.in or visit your nearest CSC center.",
+                "text_hi": "आप pmkisan.gov.in पर या नजदीकी CSC सेंटर जाकर आसानी से पंजीकरण कर सकते हैं।"
+            },
+            {
+                "id": 3,
+                "text": "Don't forget to get your land papers verified by the Patwari.",
+                "text_hi": "अपने जमीन के कागज पटवारी से वेरीफाई करवाना न भूलें।"
+            }
+        ]
+    },
+    "SCHEME_PM_FASAL": {
+        "title": "Pradhan Mantri Fasal Bima Yojana",
+        "title_hi": "प्रधानमंत्री फसल बीमा योजना",
+        "description": "Agar fasal kharab ho gayi hai, toh yeh yojana aapki madad karegi.",
+        "description_hi": "अगर फसल खराब हो गई है, तो यह योजना आपकी मदद करेगी।",
+        "spoken_text": "Don't worry, friend. The Pradhan Mantri Fasal Bima Yojana is there to protect you from losses due to bad weather or pests. If your crop is damaged, you must inform your bank or insurance company within 72 hours. Please take photos of the damaged crop as proof. You should visit your bank or nearest CSC center immediately to fill the claim form.",
+        "spoken_text_hi": "किसान भाई, आप बिल्कुल चिंता न करें। अगर बारिश, ओले या कीड़ों से आपकी फसल खराब हुई है, तो प्रधानमंत्री फसल बीमा योजना आपकी मदद करेगी। बस एक जरूरी बात याद रखें - नुकसान होने के 72 घंटे, यानी 3 दिन के भीतर आपको बैंक या बीमा कंपनी को बताना होगा। खराब फसल की फोटो भी खींच लें, यह सबूत के लिए काम आएगी। आप तुरंत अपने बैंक या CSC सेंटर जाकर फॉर्म भर दें।",
+        "source": "https://pmfby.gov.in",
+        "steps": [
+            {
+                "id": 1,
+                "text": "Inform the bank or insurance company within 72 hours of crop loss.",
+                "text_hi": "नुकसान होने के 72 घंटे के भीतर बैंक या बीमा कंपनी को सूचना दें।"
+            },
+            {
+                "id": 2,
+                "text": "You can fill the application form at your bank or nearest CSC.",
+                "text_hi": "आप बैंक या नजदीकी CSC में जाकर आवेदन फॉर्म भर सकते हैं।"
+            },
+            {
+                "id": 3,
+                "text": "Keep a photo of the damaged crop as proof.",
+                "text_hi": "खराब फसल की फोटो सबूत के तौर पर अपने पास रखें।"
+            }
+        ]
+    },
+    "SCHEME_KCC": {
+        "title": "Kisan Credit Card (KCC)",
+        "title_hi": "किसान क्रेडिट कार्ड (KCC)",
+        "description": "Kheti ke kharche ke liye sasta loan lene ka sabse accha tareeka.",
+        "description_hi": "खेती के खर्चे के लिए सस्ता लोन लेने का सबसे अच्छा तरीका।",
+        "spoken_text": "Kisan Credit Card, or KCC, is the best friend for your farming needs. It gives you money for seeds, fertilizers, or equipment at a very low interest rate of just 4%. It's much cheaper than taking money from moneylenders. To get one, simply take your land documents to your bank branch. Establish a relationship with your bank, and this card will help you in every season!",
+        "spoken_text_hi": "किसान क्रेडिट कार्ड यानी KCC, खेती के खर्चे के लिए आपका सबसे अच्छा दोस्त है। इससे आपको बीज, खाद या दवाई के लिए बहुत ही कम ब्याज, सिर्फ 4% पर पैसा मिल जाता है। साहूकारों से महंगा कर्ज लेने की जरूरत नहीं है। बस अपने जमीन के कागज लेकर अपनी बैंक शाखा में जाएं और फॉर्म भरें। एक बार कार्ड बन गया तो खेती का खर्चा आसानी से निकल जाएगा!",
+        "source": "https://sbi.co.in/kcc",
+        "steps": [
+            {
+                "id": 1,
+                "text": "Go to your extensive bank with land documents.",
+                "text_hi": "अपने जमीन के कागज लेकर अपनी बैंक शाखा में जाएं।"
+            },
+            {
+                "id": 2,
+                "text": "Fill the concise one-page KCC form.",
+                "text_hi": "वहां एक सरल सा एक-पेज का KCC फॉर्म भरें।"
+            },
+            {
+                "id": 3,
+                "text": "You will get money at a very low interest rate (4% with subsidy).",
+                "text_hi": "आपको बहुत कम ब्याज दर (सब्सिडी के साथ 4%) पर पैसा मिल जाएगा।"
+            }
+        ]
+    },
+    "SCHEME_SOIL_HEALTH": {
+        "title": "Soil Health Card",
+        "title_hi": "मृदा स्वास्थ्य कार्ड (Soil Health Card)",
+        "description": "Apni mitti ki jaanch karwayein, aur khaad ka sahi upyog karein.",
+        "description_hi": "अपनी मिट्टी की जांच करवाएं, और खाद का सही उपयोग करें।",
+        "spoken_text": "Healthy soil means a healthy crop! The Soil Health Card is like a medical report for your field. It tells you exactly which nutrients are missing and how much fertilizer to put. This saves you money on unnecessary urea or DAP. Just collect a little soil from the four corners and the center of your field, mix it, and give it to the nearest Soil Testing Lab. You should definitely do this every 2 years.",
+        "spoken_text_hi": "जैसे हम अपनी सेहत की जांच कराते हैं, वैसे ही खेत की मिट्टी की जांच भी जरूरी है! सॉइल हेल्थ कार्ड आपकी खेत की रिपोर्ट है। यह बताता है कि मिट्टी में किस चीज़ की कमी है और कितनी खाद डालनी चाहिए। इससे आपका फालतू खाद का खर्चा भी बचेगा। बस खेत के चारों कोनों और बीच से मिट्टी लें, उसे मिलाएं और नजदीकी प्रयोगशाला में दे आएं। हर 2 साल में यह जांच जरूर करवानी चाहिए।",
+        "source": "https://soilhealth.dac.gov.in",
+        "steps": [
+            {
+                "id": 1,
+                "text": "Collect soil samples from 4 corners and the center of your field.",
+                "text_hi": "अपने खेत के 4 कोनों और बीच से मिट्टी का नमूना (सैंपल) लें।"
+            },
+            {
+                "id": 2,
+                "text": "Submit the sample to the nearest Soil Testing Lab.",
+                "text_hi": "इस नमूने को नजदीकी मिट्टी परीक्षण प्रयोगशाला में जमा करें।"
+            },
+            {
+                "id": 3,
+                "text": "You will get a card telling you exactly which fertilizer to use.",
+                "text_hi": "आपको एक कार्ड मिलेगा जो बताएगा कि कौनसी खाद डालनी चाहिए।"
+            }
+        ]
+    },
+    "URBAN_TERRACE_FARMING": {
+        "title": "Chhat Par Kheti (Terrace Farming)",
+        "title_hi": "छत पर खेती (Terrace Farming)",
+        "description": "Shahar mein rehkar bhi taazi sabziyan ugaayein.",
+        "description_hi": "शहर में रहकर भी ताजी सब्जियां उगाएं।",
+        "spoken_text": "Did you know you can be a farmer even in the city? With Terrace Farming, you can grow fresh, chemical-free vegetables right on your roof. It's easy! Make a lightweight soil mix with 50% soil, 30% compost, and 20% cocopeat. Use pots with good drainage holes. You can start with simple things like spinach, coriander, chili, or tomatoes. It keeps your house cool and gives you healthy food!",
+        "spoken_text_hi": "क्या आप जानते हैं कि शहर में रहकर भी आप किसान बन सकते हैं? अपनी छत पर टेरेस फार्मिंग करके आप ताजी और बिना केमिकल वाली सब्जियां उगा सकते हैं। यह बहुत आसान है! 50% मिट्टी, 30% खाद और 20% कोकोपीट मिलाकर हल्का मिश्रण बनाएं। हमेशा छेद वाले गमले इस्तेमाल करें। आप पालक, धनिया, मिर्च या टमाटर जैसी आसान चीजों से शुरुआत कर सकते हैं। इससे घर भी ठंडा रहता है और सेहत भी अच्छी रहती है!",
+        "source": "Horticulture Dept.",
+        "steps": [
+            {
+                "id": 1,
+                "text": "Make a mix of Soil (50%), Compost (30%), and Cocopeat (20%).",
+                "text_hi": "मिट्टी (50%), खाद (30%), और कोकोपीट (20%) का मिश्रण बनाएं।"
+            },
+            {
+                "id": 2,
+                "text": "Always use pots with holes so extra water can drain out.",
+                "text_hi": "हमेशा छेद वाले गमलों का इस्तेमाल करें ताकि फालतू पानी निकल सके।"
+            },
+            {
+                "id": 3,
+                "text": "Start with spinach or tomatoes, they are easy to grow!",
+                "text_hi": "पालक या टमाटर से शुरुआत करें, यह उगाने में आसान हैं!"
+            }
+        ] 
+    },
+    "UNKNOWN": {
+        "title": "Maaf kijiye, samajh nahi aaya.",
+        "title_hi": "माफ़ कीजिये, समझ नहीं आया।",
+        "description": "Kripya 'PM Kisan', 'Fasal Bima', 'Mitti', ya 'KCC' ke baare mein poochhein.",
+        "description_hi": "कृपया 'PM Kisan', 'Fasal Bima', 'Mitti', या 'KCC' के बारे में पूछें।",
+        "spoken_text": "I apologize, I didn't quite catch that. I am still learning! You can ask me things like 'Tell me about PM Kisan', 'How to get KCC loan', or 'Soil testing'. Please try asking again.",
+        "spoken_text_hi": "माफ़ कीजिये किसान भाई, मैं आपकी बात समझ नहीं पाया। मैं अभी सीख रहा हूँ! आप मुझसे 'पीएम किसान', 'फसल बीमा', 'लोन कैसे लें' या 'मिट्टी की जांच' जैसे सवाल पूछ सकते हैं। कृपया दोबारा पूछने की कोशिश करें।",
+        "source": "GramSetu",
+        "steps": []
+    }
+}

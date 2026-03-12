@@ -1,0 +1,143 @@
+[
+    {
+        "id": "v4",
+        "title": "Zero Budget Natural Farming (ZBNF) - Krishi Darshan",
+        "title_hi": "शून्य लागत प्राकृतिक खेती - जीवामृत (कृषि दर्शन)",
+        "thumbnail": "https://img.youtube.com/vi/IkQo5OGla7s/0.jpg",
+        "url": "https://www.youtube.com/embed/IkQo5OGla7s",
+        "category": "MODERN",
+        "tags": [
+            "organic",
+            "jivamrut",
+            "zbnf",
+            "natural"
+        ]
+    },
+    {
+        "id": "v5",
+        "title": "Agriculture Drones - Future of Farming",
+        "title_hi": "खेती में ड्रोन का उपयोग - नई तकनीक",
+        "thumbnail": "https://img.youtube.com/vi/-M5HL6CaEic/0.jpg",
+        "url": "https://www.youtube.com/embed/-M5HL6CaEic",
+        "category": "MODERN",
+        "tags": [
+            "drone",
+            "tech",
+            "spraying",
+            "modern"
+        ]
+    },
+    {
+        "id": "v6",
+        "title": "Hydroponics Farming Guide - 10 Min Explanation",
+        "title_hi": "हाइड्रोपोनिक्स - बिना मिट्टी की खेती (10 मिनट में समझें)",
+        "thumbnail": "https://img.youtube.com/vi/0bFnolCW4fw/0.jpg",
+        "url": "https://www.youtube.com/embed/0bFnolCW4fw",
+        "category": "MODERN",
+        "tags": [
+            "hydroponics",
+            "water",
+            "tech",
+            "profit"
+        ]
+    },
+    {
+        "id": "v7",
+        "title": "Vermicompost Business - Complete Guide",
+        "title_hi": "वर्मीकम्पोस्ट (केंचुआ खाद) बिज़नेस - पूरी जानकारी",
+        "thumbnail": "https://img.youtube.com/vi/gksTs72L7sc/0.jpg",
+        "url": "https://www.youtube.com/embed/gksTs72L7sc",
+        "category": "MODERN",
+        "tags": [
+            "vermicompost",
+            "manure",
+            "business",
+            "organic"
+        ]
+    },
+    {
+        "id": "v8",
+        "title": "PM KUSUM Yojana - Solar Pump Subsidy Details",
+        "title_hi": "पीएम कुसुम योजना - सोलर पंप सब्सिडी और लाभ (DD Kisan)",
+        "thumbnail": "https://img.youtube.com/vi/4DJYr9whNbc/0.jpg",
+        "url": "https://www.youtube.com/embed/4DJYr9whNbc",
+        "category": "SCHEMES",
+        "tags": [
+            "solar",
+            "kusum",
+            "subsidy",
+            "pump"
+        ]
+    },
+    {
+        "id": "v9",
+        "title": "Soil Health Card - Swasth Dharaa, Khet Haraa",
+        "title_hi": "मृदा स्वास्थ्य कार्ड - स्वस्थ धरा, खेत हरा (PIB)",
+        "thumbnail": "https://img.youtube.com/vi/x3L1IAwUZK0/0.jpg",
+        "url": "https://www.youtube.com/embed/x3L1IAwUZK0",
+        "category": "SCHEMES",
+        "tags": [
+            "soil",
+            "health card",
+            "pib",
+            "testing"
+        ]
+    },
+    {
+        "id": "v11",
+        "title": "Drip Irrigation Installation - A to Z Guide",
+        "title_hi": "ड्रिप सिंचाई सिस्टम - फिटिंग और जानकारी (A to Z)",
+        "thumbnail": "https://img.youtube.com/vi/RnrfS8YioSg/0.jpg",
+        "url": "https://www.youtube.com/embed/RnrfS8YioSg",
+        "category": "MODERN",
+        "tags": [
+            "drip",
+            "irrigation",
+            "installation",
+            "tech"
+        ]
+    },
+    {
+        "id": "v12",
+        "title": "Vertical Farming in India - Reality & Analysis",
+        "title_hi": "वर्टिकल फार्मिंग - भारत में क्या यह संभव है? (विश्लेषण)",
+        "thumbnail": "https://img.youtube.com/vi/At8jnZsEx_A/0.jpg",
+        "url": "https://www.youtube.com/embed/At8jnZsEx_A",
+        "category": "MODERN",
+        "tags": [
+            "vertical farming",
+            "urban farming",
+            "profit",
+            "modern"
+        ]
+    },
+    {
+        "id": "v13",
+        "title": "IFFCO Nano Urea - Animation Film",
+        "title_hi": "इफको नैनो यूरिया - एनिमेशन फिल्म (उपयोग और फायदे)",
+        "thumbnail": "https://img.youtube.com/vi/VbkmG7w1Tj4/0.jpg",
+        "url": "https://www.youtube.com/embed/VbkmG7w1Tj4",
+        "category": "MODERN",
+        "tags": [
+            "urea",
+            "fertilizer",
+            "nano",
+            "iffco",
+            "tech"
+        ]
+    },
+    {
+        "id": "v14",
+        "title": "Paramparagat Krishi Vikas Yojana (Organic)",
+        "title_hi": "परम्परागत कृषि विकास योजना - जैविक खेती प्रोत्साहन",
+        "thumbnail": "https://img.youtube.com/vi/WsC8Vvj7ba0/0.jpg",
+        "url": "https://www.youtube.com/embed/WsC8Vvj7ba0",
+        "category": "SCHEMES",
+        "tags": [
+            "organic",
+            "pkvy",
+            "subsidy",
+            "farming"
+        ]
+    }
+]
