@@ -75,10 +75,7 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
             const formData = new FormData();
             formData.append('image', activeFile);
 
-            const protocol = window.location.protocol;
-            const hostname = window.location.hostname;
-            const port = 5001; // Backend port
-            const backendUrl = `${protocol}//${hostname}:${port}/api/analyze`;
+            const backendUrl = "https://gramsetu-backend-sbs9.onrender.com/api/analyze";
 
             const response = await fetch(backendUrl, {
                 method: 'POST',
@@ -154,7 +151,7 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
         const tips = isHindi ? result.steps_hi.join('. ') : result.steps.join('. ');
 
         const text = isHindi
-            ? `आपकी खेत की मिट्टी ${soilType} है। इसका स्वास्थ्य ${soilHealth} है। सुझाव: ${tips}`
+            ? `???????????? ????????? ?????? ?????????????????? ${soilType} ????????? ???????????? ??????????????????????????? ${soilHealth} ????????? ???????????????: ${tips}`
             : `Your farm soil is ${soilType}. The health is ${soilHealth}. Recommendations: ${tips}`;
 
         speakText(text, language);
@@ -179,14 +176,14 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
                                     className="bg-white text-crop-green border-2 border-crop-green px-6 py-3 rounded-xl font-bold shadow-sm hover:bg-green-50 transition-all flex items-center gap-2"
                                 >
                                     <Upload size={20} />
-                                    {language === 'hi-IN' ? 'फ़ाइल चुनें' : 'Upload File'}
+                                    {language === 'hi-IN' ? '??????????????? ???????????????' : 'Upload File'}
                                 </button>
                                 <button
                                     onClick={() => cameraInputRef.current.click()}
                                     className="bg-crop-green text-white px-6 py-3 rounded-xl font-bold shadow-lg shadow-green-200 hover:bg-crop-dark transition-all flex items-center gap-2"
                                 >
                                     <Camera size={20} />
-                                    {language === 'hi-IN' ? 'फोटो खींचें' : 'Take Photo'}
+                                    {language === 'hi-IN' ? '???????????? ??????????????????' : 'Take Photo'}
                                 </button>
                             </div>
 
@@ -224,7 +221,7 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
                             <Leaf className="absolute inset-0 m-auto text-crop-green animate-pulse" size={32} />
                         </div>
                         <h3 className="text-xl font-bold text-earth-800">Analyzing your Farm...</h3>
-                        <p className="text-earth-600 mt-2">Checking Soil Quality • Predicting Crops</p>
+                        <p className="text-earth-600 mt-2">Checking Soil Quality ??? Predicting Crops</p>
                     </div>
                 )}
 
@@ -243,7 +240,7 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
                                     <Droplets className="text-amber-700" size={24} />
                                 </div>
                                 <h2 className="text-lg font-bold text-amber-900">
-                                    {language === 'hi-IN' ? 'मिट्टी का विश्लेषण' : 'Soil Analysis'}
+                                    {language === 'hi-IN' ? '?????????????????? ?????? ????????????????????????' : 'Soil Analysis'}
                                 </h2>
                                 <button onClick={speakResult} className="ml-auto p-2 bg-white rounded-full text-amber-600 hover:bg-amber-50">
                                     <Volume2 size={20} />
@@ -252,7 +249,7 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
                             <div className="grid grid-cols-2 gap-4">
                                 <div>
                                     <p className="text-xs text-amber-600 uppercase font-semibold">
-                                        {language === 'hi-IN' ? 'प्रकार' : 'Type'}
+                                        {language === 'hi-IN' ? '??????????????????' : 'Type'}
                                     </p>
                                     <p className="font-bold text-amber-900">
                                         {language === 'hi-IN' ? result.soilType_hi : result.soilType}
@@ -260,7 +257,7 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
                                 </div>
                                 <div>
                                     <p className="text-xs text-amber-600 uppercase font-semibold">
-                                        {language === 'hi-IN' ? 'स्वास्थ्य' : 'Health'}
+                                        {language === 'hi-IN' ? '???????????????????????????' : 'Health'}
                                     </p>
                                     <p className="font-bold text-green-700">
                                         {language === 'hi-IN' ? result.soilHealth_hi : result.soilHealth}
@@ -276,7 +273,7 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
                                     <Sprout className="text-green-700" size={24} />
                                 </div>
                                 <h2 className="text-lg font-bold text-earth-900">
-                                    {language === 'hi-IN' ? 'उपयुक्त फसलें' : 'Best Crops to Grow'}
+                                    {language === 'hi-IN' ? '????????????????????? ???????????????' : 'Best Crops to Grow'}
                                 </h2>
                             </div>
                             <div className="space-y-3">
@@ -294,7 +291,7 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
                         {/* Steps */}
                         <div className="bg-white  p-6 rounded-2xl border border-earth-100 shadow-sm">
                             <h3 className="font-bold text-earth-900 mb-4">
-                                {language === 'hi-IN' ? 'खेती के सुझाव' : 'Growing Steps'}
+                                {language === 'hi-IN' ? '???????????? ?????? ???????????????' : 'Growing Steps'}
                             </h3>
                             <ul className="space-y-3">
                                 {(language === 'hi-IN' ? result.steps_hi : result.steps).map((step, i) => (
@@ -308,10 +305,10 @@ export default function AnalyzeFarm({ language = 'en-US' }) {
 
                         {/* Free Seeds */}
                         <div className="bg-blue-50  p-4 rounded-xl border border-blue-100 flex items-start gap-4">
-                            <div className="bg-blue-100 p-2 rounded-full text-2xl font-bold text-blue-600">🏛️</div>
+                            <div className="bg-blue-100 p-2 rounded-full text-2xl font-bold text-blue-600">???????</div>
                             <div>
                                 <h4 className="font-bold text-blue-900">
-                                    {language === 'hi-IN' ? 'मुफ्त सरकारी बीज' : 'Get Free Govt Seeds'}
+                                    {language === 'hi-IN' ? '??????????????? ?????????????????? ?????????' : 'Get Free Govt Seeds'}
                                 </h4>
                                 <p className="text-sm text-blue-700 mt-1">
                                     {language === 'hi-IN' ? result.freeSeeds_hi : result.freeSeeds}
