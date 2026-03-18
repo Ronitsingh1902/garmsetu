@@ -78,7 +78,7 @@ app.post('/api/ask', (req, res) => {
                 spoken_text: kbItem.detailed_en,
                 spoken_text_hi: kbItem.detailed_hi,
                 // Map to ResultCard format
-                benefits: [language === 'hi-IN' ? "विस्तृत जानकारी" : "Detailed Info"],
+                benefits: [language === 'hi-IN' ? "????????????????????? ?????????????????????" : "Detailed Info"],
                 steps: [language === 'hi-IN' ? kbItem.detailed_hi : kbItem.detailed_en],
                 documents: []
             }
@@ -98,63 +98,35 @@ app.post('/api/ask', (req, res) => {
         }
     });
 });
+{
+  soilType: "Black Cotton Soil (Kali Mitti)",
+  soilType_hi: "\u0915\u093e\u0932\u0940 \u092e\u093f\u091f\u094d\u091f\u0940",
 
-const SOIL_TYPES = [
-    {
-        soilType: "Black Cotton Soil (Kali Mitti)",
-        soilType_hi: "काली मिट्टी (कपास मृदा)",
-        soilHealth: "Good - Rich in Nitrogen",
-        soilHealth_hi: "अच्छी - नाइट्रोजन से भरपूर",
-        recommendedCrops: [
-            { name: "Cotton (Kapas)", yield: "12-15 Quintal/Acre" },
-            { name: "Wheat (Gehu)", yield: "18-20 Quintal/Acre" }
-        ],
-        recommendedCrops_hi: [
-            { name: "कपास (Cotton)", yield: "12-15 क्विंटल/एकड़" },
-            { name: "गेहूं (Wheat)", yield: "18-20 क्विंटल/एकड़" }
-        ],
-        steps: ["Deep ploughing required.", "Add organic manure.", "Irrigate heavily."],
-        steps_hi: ["गहरी जुताई आवश्यक है।", "जैविक खाद डालें।", "खूब सिंचाई करें।"],
-        freeSeeds: "Available at Sector-4 Krishi Bhavan.",
-        freeSeeds_hi: "सेक्टर-4 कृषि भवन में उपलब्ध है।"
-    },
-    {
-        soilType: "Alluvial Soil (Jalodh Mitti)",
-        soilType_hi: "जलोढ़ मिट्टी (उपजाऊ मृदा)",
-        soilHealth: "Excellent - Very Fertile",
-        soilHealth_hi: "उत्कृष्ट - बहुत उपजाऊ",
-        recommendedCrops: [
-            { name: "Rice (Dhaan)", yield: "25-30 Quintal/Acre" },
-            { name: "Sugarcane (Ganna)", yield: "400-500 Quintal/Acre" }
-        ],
-        recommendedCrops_hi: [
-            { name: "धान (Rice)", yield: "25-30 क्विंटल/एकड़" },
-            { name: "गन्ना (Sugarcane)", yield: "400-500 क्विंटल/एकड़" }
-        ],
-        steps: ["Maintain water level.", "Use urea in split doses.", "Keep weed free."],
-        steps_hi: ["पानी का स्तर बनाए रखें।", "यूरिया का प्रयोग किस्तों में करें।", "खरपतवार मुक्त रखें।"],
-        freeSeeds: "Available at Block Office, Patwari Halka.",
-        freeSeeds_hi: "ब्लॉक ऑफिस, पटवारी हल्का में उपलब्ध है।"
-    },
-    {
-        soilType: "Red Soil (Laal Mitti)",
-        soilType_hi: "लाल मिट्टी",
-        soilHealth: "Moderate - Needs Phosphates",
-        soilHealth_hi: "मध्यम - फॉस्फेट की आवश्यकता",
-        recommendedCrops: [
-            { name: "Groundnut (Moongfali)", yield: "8-10 Quintal/Acre" },
-            { name: "Pulses (Daal)", yield: "5-6 Quintal/Acre" }
-        ],
-        recommendedCrops_hi: [
-            { name: "मूंगफली", yield: "8-10 क्विंटल/एकड़" },
-            { name: "दालें", yield: "5-6 क्विंटल/एकड़" }
-        ],
-        steps: ["Add lime to soil.", "Use bio-fertilizers.", "Light irrigation needed."],
-        steps_hi: ["मिट्टी में चूना डालें।", "जैव उर्वरकों का प्रयोग करें।", "हल्की सिंचाई की आवश्यकता है।"],
-        freeSeeds: "Contact Gram Pradhan for subsidy.",
-        freeSeeds_hi: "सब्सिडी के लिए ग्राम प्रधान से संपर्क करें।"
-    }
-];
+  soilHealth: "Good - Rich in Nitrogen",
+  soilHealth_hi: "\u0905\u091a\u094d\u091b\u0940 - \u0928\u093e\u0907\u091f\u094d\u0930\u094b\u091c\u0928 \u0938\u0947 \u092d\u0930\u092a\u0942\u0930",
+
+  recommendedCrops: [
+    { name: "Cotton (Kapas)", yield: "1215 Quintal/Acre" },
+    { name: "Wheat (Gehu)", yield: "1820 Quintal/Acre" }
+  ],
+
+  recommendedCrops_hi: [
+    { name: "\u0915\u092a\u093e\u0938", yield: "1215 \u0915\u094d\u0935\u093f\u0902\u091f\u0932/\u090f\u0915\u0921\u093c" },
+    { name: "\u0917\u0947\u0939\u0942\u0902", yield: "1820 \u0915\u094d\u0935\u093f\u0902\u091f\u0932/\u090f\u0915\u0921\u093c" }
+  ],
+
+  steps: [
+    "Deep ploughing required",
+    "Add organic manure",
+    "Irrigate properly"
+  ],
+
+  steps_hi: [
+    "\u0917\u0939\u0930\u0940 \u091c\u0941\u0924\u093e\u0908 \u0906\u0935\u0936\u094d\u092f\u0915 \u0939\u0948",
+    "\u091c\u0948\u0935\u093f\u0915 \u0916\u093e\u0926 \u0921\u093e\u0932\u0947\u0902",
+    "\u0916\u0942\u092c \u0938\u093f\u0902\u091a\u093e\u0908 \u0915\u0930\u0947\u0902"
+  ]
+}
 
 app.post('/api/analyze', upload.single('image'), async (req, res) => {
     console.log("[Backend] Received analysis request.");
